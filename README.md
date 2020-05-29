@@ -1,24 +1,28 @@
-#` Weather APP`
+# `Weather APP`
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## what it does
-It is the frontend react-app that allow the user to search for weather to different countries. The app have a search input that allow the user to enter the country and search.
+## `what it does`
+It is frontend react-app that allow the user to search for weather to different countries. The app have a search input that allow the user to enter the country and search.
 
 
-## Built With
+## `Built With`
 
 - React.js,
 - CSS3,
 - Jsx
 
 
+## `Screenshot`
+![Screenshoot](src/images/screen.W1.png)
+
+![Screenshoot](src/images/screenw2.png)
 
 
-## Live Demo
- [Live Demo](https://nellencr.github.io/Recipe-App)
+## `Live Demo`
+ Click [here](https://mystifying-tereshkova-9e3c32.netlify.app) for Live Demo
 
 
 👤 **Author**
